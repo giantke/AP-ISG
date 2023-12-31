@@ -1,0 +1,1335 @@
+{
+  "53957785": [
+        [
+            [
+                "cardiac silhouette|C0507134;;C0018787",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "enlarged cardiac silhouette|C0018800;;C0507134&&CL448921",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "cardiac silhouette|C0507134;;C0018787",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "aortic arch|C0003489",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "abnormal|C0205161",
+                "nlp_annotation"
+            ],
+            [
+                "aortic arch|C0003489",
+                "location"
+            ],
+            "annotation_of"
+        ],
+        [
+            [
+                "aortic arch|C0003489",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "mediastinal widening|C0746459;;C0025066&&C0700124",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "aortic arch|C0003489",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "aortic arch|C0003489",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "normal|C1550457",
+                "nlp_annotation"
+            ],
+            [
+                "aortic arch|C0003489",
+                "location"
+            ],
+            "annotation_of"
+        ],
+        [
+            [
+                "aortic arch|C0003489",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "tortuous aorta|C0741171;;C4025003;;C0003483&&C4068863",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "aortic arch|C0003489",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "aortic arch|C0003489",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "vascular calcification|C0342649;;C3714653&&C1533591",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "aortic arch|C0003489",
+                "location"
+            ],
+            "annotation_of"
+        ],
+        [
+            [
+                "left hilar structures|C1708367",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "abnormal|C0205161",
+                "nlp_annotation"
+            ],
+            [
+                "left hilar structures|C1708367",
+                "location"
+            ],
+            "annotation_of"
+        ],
+        [
+            [
+                "left hilar structures|C1708367",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "enlarged hilum|CL565534;;C0456973;;C0225701&&CL448921;;C0225701&&C0205402",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "left hilar structures|C1708367",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "left hilar structures|C1708367",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "vascular calcification|C0342649;;C3714653&&C1533591",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "left hilar structures|C1708367",
+                "location"
+            ],
+            "annotation_of"
+        ],
+        [
+            [
+                "mediastinum|C0025066",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "mediastinal displacement|C1403670;;C0025066&&CL381466",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "mediastinum|C0025066",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "mediastinum|C0025066",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "mediastinal widening|C0746459;;C0025066&&C0700124",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "mediastinum|C0025066",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "mediastinum|C0025066",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "superior mediastinal mass/enlargement|C0240318;;C0520743;;C0230147&&CL448921",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "mediastinum|C0025066",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "mediastinum|C0025066",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "tortuous aorta|C0741171;;C4025003;;C0003483&&C4068863",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "mediastinum|C0025066",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "mediastinum|C0025066",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "vascular calcification|C0342649;;C3714653&&C1533591",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "mediastinum|C0025066",
+                "location"
+            ],
+            "annotation_of"
+        ],
+        [
+            [
+                "right hilar structures|C1708369",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "abnormal|C0205161",
+                "nlp_annotation"
+            ],
+            [
+                "right hilar structures|C1708369",
+                "location"
+            ],
+            "annotation_of"
+        ],
+        [
+            [
+                "right hilar structures|C1708369",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "enlarged hilum|CL565534;;C0456973;;C0225701&&CL448921;;C0225701&&C0205402",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "right hilar structures|C1708369",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "right hilar structures|C1708369",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "vascular calcification|C0342649;;C3714653&&C1533591",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "right hilar structures|C1708369",
+                "location"
+            ],
+            "annotation_of"
+        ],
+        [
+            [
+                "upper mediastinum|C0230147",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "abnormal|C0205161",
+                "nlp_annotation"
+            ],
+            [
+                "upper mediastinum|C0230147",
+                "location"
+            ],
+            "annotation_of"
+        ],
+        [
+            [
+                "upper mediastinum|C0230147",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "mediastinal displacement|C1403670;;C0025066&&CL381466",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "upper mediastinum|C0230147",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "upper mediastinum|C0230147",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "mediastinal widening|C0746459;;C0025066&&C0700124",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "upper mediastinum|C0230147",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "upper mediastinum|C0230147",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "normal|C1550457",
+                "nlp_annotation"
+            ],
+            [
+                "upper mediastinum|C0230147",
+                "location"
+            ],
+            "annotation_of"
+        ],
+        [
+            [
+                "upper mediastinum|C0230147",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "superior mediastinal mass/enlargement|C0240318;;C0520743;;C0230147&&CL448921",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "upper mediastinum|C0230147",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "upper mediastinum|C0230147",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "tortuous aorta|C0741171;;C4025003;;C0003483&&C4068863",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "upper mediastinum|C0230147",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "upper mediastinum|C0230147",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "vascular calcification|C0342649;;C3714653&&C1533591",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "upper mediastinum|C0230147",
+                "location"
+            ],
+            "annotation_of"
+        ],
+        [
+            [
+                "left hilar structures|C1708367",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "lung opacity|CL556823",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "left hilar structures|C1708367",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "left hilar structures|C1708367",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "normal|C1550457",
+                "nlp_annotation"
+            ],
+            [
+                "left hilar structures|C1708367",
+                "location"
+            ],
+            "annotation_of"
+        ],
+        [
+            [
+                "left hilar structures|C1708367",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "pulmonary edema/hazy opacity|CL542044;;C0034063",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "left hilar structures|C1708367",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "left lung|C0225730",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "pulmonary edema/hazy opacity|CL542044;;C0034063",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "left lung|C0225730",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "right hilar structures|C1708369",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "lung opacity|CL556823",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "right hilar structures|C1708369",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "right hilar structures|C1708369",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "normal|C1550457",
+                "nlp_annotation"
+            ],
+            [
+                "right hilar structures|C1708369",
+                "location"
+            ],
+            "annotation_of"
+        ],
+        [
+            [
+                "right hilar structures|C1708369",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "pulmonary edema/hazy opacity|CL542044;;C0034063",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "right hilar structures|C1708369",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "right lung|C0225706",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "pulmonary edema/hazy opacity|CL542044;;C0034063",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "right lung|C0225706",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "left lung|C0225730",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "lung opacity|CL556823",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "left lung|C0225730",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "right lung|C0225706",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "lung opacity|CL556823",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "right lung|C0225706",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "left costophrenic angle|CL380391;;C0504100",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "pleural effusion|CL545973;;C0032227",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "left costophrenic angle|CL380391;;C0504100",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "left lung|C0225730",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "pleural effusion|CL545973;;C0032227",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "left lung|C0225730",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "left lung|C0225730",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "pneumothorax|C1963215;;C0032326",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "left lung|C0225730",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "right costophrenic angle|CL380392;;C0504099",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "pleural effusion|CL545973;;C0032227",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "right costophrenic angle|CL380392;;C0504099",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "right lung|C0225706",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "pleural effusion|CL545973;;C0032227",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "right lung|C0225706",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "right lung|C0225706",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "pneumothorax|C1963215;;C0032326",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "right lung|C0225706",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "cardiac silhouette|C0507134;;C0018787",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "abnormal|C0205161",
+                "nlp_annotation"
+            ],
+            [
+                "cardiac silhouette|C0507134;;C0018787",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "cardiac silhouette|C0507134;;C0018787",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "normal|C1550457",
+                "nlp_annotation"
+            ],
+            [
+                "cardiac silhouette|C0507134;;C0018787",
+                "location"
+            ],
+            "annotation_of"
+        ],
+        [
+            [
+                "left lung|C0225730",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "abnormal|C0205161",
+                "nlp_annotation"
+            ],
+            [
+                "left lung|C0225730",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "left lung|C0225730",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "normal|C1550457",
+                "nlp_annotation"
+            ],
+            [
+                "left lung|C0225730",
+                "location"
+            ],
+            "annotation_of"
+        ],
+        [
+            [
+                "mediastinum|C0025066",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "abnormal|C0205161",
+                "nlp_annotation"
+            ],
+            [
+                "mediastinum|C0025066",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "mediastinum|C0025066",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "normal|C1550457",
+                "nlp_annotation"
+            ],
+            [
+                "mediastinum|C0025066",
+                "location"
+            ],
+            "annotation_of"
+        ],
+        [
+            [
+                "right lung|C0225706",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "abnormal|C0205161",
+                "nlp_annotation"
+            ],
+            [
+                "right lung|C0225706",
+                "location"
+            ],
+            "NOT_annotation_of"
+        ],
+        [
+            [
+                "right lung|C0225706",
+                "location"
+            ],
+            [
+                "53957785",
+                "study_id"
+            ],
+            "location_of"
+        ],
+        [
+            [
+                "normal|C1550457",
+                "nlp_annotation"
+            ],
+            [
+                "right lung|C0225706",
+                "location"
+            ],
+            "annotation_of"
+        ],
+        [
+            [
+                "upper mediastinum|C0230147",
+                "location"
+            ],
+            [
+                "aortic arch|C0003489",
+                "location"
+            ],
+            "p2c"
+        ],
+        [
+            [
+                "upper mediastinum|C0230147",
+                "location"
+            ],
+            [
+                "svc|C0042459",
+                "location"
+            ],
+            "p2c"
+        ],
+        [
+            [
+                "mediastinum|C0025066",
+                "location"
+            ],
+            [
+                "cardiac silhouette|C0507134;;C0018787",
+                "location"
+            ],
+            "p2c"
+        ],
+        [
+            [
+                "mediastinum|C0025066",
+                "location"
+            ],
+            [
+                "upper mediastinum|C0230147",
+                "location"
+            ],
+            "p2c"
+        ],
+        [
+            [
+                "cardiac silhouette|C0507134;;C0018787",
+                "location"
+            ],
+            [
+                "right atrium|C0225844",
+                "location"
+            ],
+            "p2c"
+        ],
+        [
+            [
+                "cardiac silhouette|C0507134;;C0018787",
+                "location"
+            ],
+            [
+                "cavoatrial junction|CL493350",
+                "location"
+            ],
+            "p2c"
+        ],
+        [
+            [
+                "right lung|C0225706",
+                "location"
+            ],
+            [
+                "right costophrenic angle|CL380392;;C0504099",
+                "location"
+            ],
+            "p2c"
+        ],
+        [
+            [
+                "right lung|C0225706",
+                "location"
+            ],
+            [
+                "right apical zone|C0929167",
+                "location"
+            ],
+            "p2c"
+        ],
+        [
+            [
+                "right lung|C0225706",
+                "location"
+            ],
+            [
+                "right upper lung zone|C0934570",
+                "location"
+            ],
+            "p2c"
+        ],
+        [
+            [
+                "right lung|C0225706",
+                "location"
+            ],
+            [
+                "right mid lung zone|CL380307",
+                "location"
+            ],
+            "p2c"
+        ],
+        [
+            [
+                "right lung|C0225706",
+                "location"
+            ],
+            [
+                "right lower lung zone|C0929214",
+                "location"
+            ],
+            "p2c"
+        ],
+        [
+            [
+                "left lung|C0225730",
+                "location"
+            ],
+            [
+                "left costophrenic angle|CL380391;;C0504100",
+                "location"
+            ],
+            "p2c"
+        ],
+        [
+            [
+                "left lung|C0225730",
+                "location"
+            ],
+            [
+                "left apical zone|C0929168",
+                "location"
+            ],
+            "p2c"
+        ],
+        [
+            [
+                "left lung|C0225730",
+                "location"
+            ],
+            [
+                "left upper lung zone|C0929215",
+                "location"
+            ],
+            "p2c"
+        ],
+        [
+            [
+                "left lung|C0225730",
+                "location"
+            ],
+            [
+                "left mid lung zone|CL380306",
+                "location"
+            ],
+            "p2c"
+        ],
+        [
+            [
+                "left lung|C0225730",
+                "location"
+            ],
+            [
+                "left lower lung zone|C0934571",
+                "location"
+            ],
+            "p2c"
+        ],
+        [
+            [
+                "left costophrenic angle|CL380391;;C0504100",
+                "location"
+            ],
+            [
+                "left lung|C0225730",
+                "location"
+            ],
+            "c2p"
+        ],
+        [
+            [
+                "right costophrenic angle|CL380392;;C0504099",
+                "location"
+            ],
+            [
+                "right lung|C0225706",
+                "location"
+            ],
+            "c2p"
+        ],
+        [
+            [
+                "upper mediastinum|C0230147",
+                "location"
+            ],
+            [
+                "mediastinum|C0025066",
+                "location"
+            ],
+            "c2p"
+        ],
+        [
+            [
+                "cardiac silhouette|C0507134;;C0018787",
+                "location"
+            ],
+            [
+                "mediastinum|C0025066",
+                "location"
+            ],
+            "c2p"
+        ],
+        [
+            [
+                "aortic arch|C0003489",
+                "location"
+            ],
+            [
+                "upper mediastinum|C0230147",
+                "location"
+            ],
+            "c2p"
+        ],
+        [
+            [
+                "lung opacity|CL556823",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "pulmonary edema/hazy opacity|CL542044;;C0034063",
+                "anatomicalfinding_annotation"
+            ],
+            "p2c"
+        ],
+        [
+            [
+                "lung opacity|CL556823",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "pleural effusion|CL545973;;C0032227",
+                "anatomicalfinding_annotation"
+            ],
+            "p2c"
+        ],
+        [
+            [
+                "pulmonary edema/hazy opacity|CL542044;;C0034063",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "lung opacity|CL556823",
+                "anatomicalfinding_annotation"
+            ],
+            "c2p"
+        ],
+        [
+            [
+                "pleural effusion|CL545973;;C0032227",
+                "anatomicalfinding_annotation"
+            ],
+            [
+                "lung opacity|CL556823",
+                "anatomicalfinding_annotation"
+            ],
+            "c2p"
+        ]
+    ]
+}
